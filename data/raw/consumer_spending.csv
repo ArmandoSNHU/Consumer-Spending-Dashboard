@@ -1,0 +1,217 @@
+date,category,spend_amount,location,age_group,payment_method
+2022-01-01,Groceries,125.50,Dallas,25-34,Debit
+2022-01-01,Entertainment,55.00,Austin,18-24,Credit
+2022-01-02,Travel,200.00,Houston,35-44,Credit
+2022-01-03,Groceries,142.25,Dallas,45-54,Cash
+2022-01-03,Utilities,90.00,San Antonio,55-64,Debit
+2022-01-04,Healthcare,35.00,Houston,65+,Debit
+2022-01-04,Online Shopping,110.40,Austin,25-34,Credit
+2022-01-05,Entertainment,75.00,Dallas,18-24,Cash
+2022-01-06,Travel,0.00,Houston,25-34,Debit
+2022-01-06,Groceries,160.70,San Antonio,35-44,Credit
+2022-01-07,Healthcare,95.80,Austin,45-54,Credit
+2022-01-08,Online Shopping,80.00,Dallas,55-64,Debit
+2022-01-09,Utilities,110.20,Houston,65+,Credit
+2022-01-10,Entertainment,,Austin,18-24,Cash
+2022-01-11,Groceries,128.90,Dallas,25-34,Credit
+2022-01-12,Healthcare,55.00,San Antonio,35-44,Debit
+2022-01-13,Travel,180.00,Houston,45-54,Credit
+2022-01-14,Online Shopping,95.50,Austin,55-64,Debit
+2022-01-15,Groceries,140.10,San Antonio,65+,Debit
+2022-01-16,Utilities,0.00,Houston,25-34,Credit
+2022-01-17,Entertainment,65.00,Dallas,18-24,Cash
+2022-01-18,Travel,220.00,San Antonio,35-44,Debit
+2022-01-19,Groceries,132.80,Houston,45-54,Credit
+2022-01-20,Healthcare,48.00,Austin,55-64,Debit
+2022-01-21,Online Shopping,120.20,Dallas,65+,Credit
+2022-01-22,Utilities,102.00,San Antonio,25-34,Cash
+2022-01-23,Entertainment,70.00,Houston,35-44,Debit
+2022-01-24,Travel,185.00,Austin,45-54,Credit
+2022-01-25,Groceries,145.00,Dallas,55-64,Debit
+2022-01-26,Dining,48.25,El Paso,25-34,Mobile
+2022-01-27,Clothing,102.50,Dallas,35-44,Credit
+2022-01-28,Groceries,138.75,Houston,45-54,Debit
+2022-01-29,Entertainment,66.00,Austin,18-24,Cash
+2022-01-30,Travel,210.00,San Antonio,55-64,Debit
+2022-01-31,Healthcare,75.00,Dallas,65+,Credit
+2022-02-01,Online Shopping,125.40,El Paso,25-34,Credit
+2022-02-02,Utilities,120.00,Houston,35-44,Debit
+2022-02-03,Groceries,143.50,Austin,45-54,Debit
+2022-02-04,Clothing,80.25,Dallas,18-24,Mobile
+2022-02-05,Dining,59.80,San Antonio,25-34,Cash
+2022-02-06,Travel,0.00,Houston,35-44,Debit
+2022-02-07,Healthcare,55.90,El Paso,45-54,Credit
+2022-02-08,Online Shopping,112.30,Austin,55-64,Debit
+2022-02-09,Entertainment,78.00,Dallas,65+,Cash
+2022-02-10,Groceries,132.20,San Antonio,25-34,Credit
+2022-02-11,Utilities,95.00,Houston,35-44,Mobile
+2022-02-12,Clothing,150.75,Austin,45-54,Credit
+2022-02-13,Dining,45.60,Dallas,18-24,Debit
+2022-02-14,Travel,225.00,El Paso,55-64,Credit
+2022-02-15,Healthcare,88.40,Houston,65+,Debit
+2022-02-16,Online Shopping,90.00,San Antonio,25-34,Cash
+2022-02-17,Entertainment,72.00,Dallas,35-44,Mobile
+2022-02-18,Groceries,129.90,Houston,45-54,Credit
+2022-02-19,Utilities,110.10,Austin,55-64,Debit
+2022-02-20,Clothing,77.00,El Paso,65+,Credit
+2022-02-21,Dining,65.25,San Antonio,25-34,Debit
+2022-02-22,Travel,0.00,Dallas,35-44,Mobile
+2022-02-23,Healthcare,54.50,Houston,45-54,Cash
+2022-02-24,Online Shopping,105.20,Austin,18-24,Debit
+2022-02-25,Entertainment,83.00,El Paso,55-64,Credit
+2022-02-26,Groceries,148.30,Dallas,65+,Cash
+2022-02-27,Utilities,120.60,San Antonio,25-34,Debit
+2022-02-28,Clothing,95.40,Houston,35-44,Credit
+2022-03-01,Dining,70.80,Austin,45-54,Mobile
+2022-03-02,Travel,215.00,Dallas,18-24,Debit
+2022-03-03,Healthcare,62.30,San Antonio,55-64,Credit
+2022-03-04,Online Shopping,118.40,El Paso,65+,Cash
+2022-03-05,Entertainment,68.00,Houston,25-34,Debit
+2022-03-06,Groceries,130.25,Austin,35-44,Credit
+2022-03-07,Utilities,100.70,Dallas,45-54,Mobile
+2022-03-08,Clothing,88.60,San Antonio,18-24,Cash
+2022-03-09,Dining,52.20,Houston,55-64,Debit
+2022-03-10,Travel,205.00,Austin,65+,Credit
+2022-03-11,Healthcare,78.50,Dallas,25-34,Debit
+2022-03-12,Online Shopping,109.10,San Antonio,35-44,Credit
+2022-03-13,Entertainment,75.00,El Paso,45-54,Cash
+2022-03-14,Groceries,135.40,Houston,18-24,Debit
+2022-03-15,Utilities,112.50,Austin,55-64,Credit
+2022-03-16,Clothing,84.00,Dallas,65+,Cash
+2022-03-17,Dining,60.40,San Antonio,25-34,Debit
+2022-03-18,Travel,220.00,Houston,35-44,Credit
+2022-03-19,Healthcare,58.70,Austin,45-54,Debit
+2022-03-20,Online Shopping,116.90,El Paso,55-64,Mobile
+2022-03-21,Entertainment,71.00,Dallas,65+,Credit
+2022-03-22,Groceries,149.30,San Antonio,25-34,Debit
+2022-03-23,Utilities,98.80,Houston,35-44,Cash
+2022-03-24,Clothing,97.60,Austin,45-54,Mobile
+2022-03-25,Dining,68.75,Dallas,18-24,Debit
+2022-03-26,Travel,210.50,El Paso,55-64,Credit
+2022-03-27,Healthcare,80.20,San Antonio,65+,Cash
+2022-03-28,Online Shopping,123.80,Houston,25-34,Debit
+2022-03-29,Entertainment,69.00,Austin,35-44,Mobile
+2022-03-30,Groceries,140.55,Dallas,45-54,Credit
+2022-03-31,Utilities,111.30,San Antonio,18-24,Cash
+2022-04-01,Clothing,85.25,Houston,55-64,Debit
+2022-04-02,Dining,61.60,Austin,65+,Credit
+2022-04-03,Travel,230.00,Dallas,25-34,Mobile
+2022-04-04,Healthcare,67.90,San Antonio,35-44,Debit
+2022-04-05,Online Shopping,117.60,El Paso,45-54,Credit
+2022-04-06,Entertainment,72.00,Houston,18-24,Debit
+2022-04-07,Groceries,136.40,Austin,55-64,Mobile
+2022-04-08,Utilities,109.70,Dallas,65+,Credit
+2022-04-09,Clothing,98.00,San Antonio,25-34,Debit
+2022-04-10,Dining,56.30,Houston,35-44,Cash
+2022-04-11,Travel,0.00,Austin,45-54,Mobile
+2022-04-12,Healthcare,59.90,Dallas,18-24,Debit
+2022-04-13,Online Shopping,104.20,El Paso,55-64,Credit
+2022-04-14,Entertainment,80.00,San Antonio,65+,Debit
+2022-04-15,Groceries,133.70,Houston,25-34,Cash
+2022-04-16,Utilities,115.30,Austin,35-44,Credit
+2022-04-17,Clothing,89.50,Dallas,45-54,Debit
+2022-04-18,Dining,69.20,San Antonio,18-24,Cash
+2022-04-19,Travel,212.00,Houston,55-64,Mobile
+2022-04-20,Healthcare,73.40,Austin,65+,Credit
+2022-04-21,Online Shopping,128.30,Dallas,25-34,Debit
+2022-04-22,Entertainment,65.00,San Antonio,35-44,Cash
+2022-04-23,Groceries,144.60,Houston,45-54,Mobile
+2022-04-24,Utilities,113.80,Austin,18-24,Debit
+2022-04-25,Clothing,81.60,El Paso,55-64,Credit
+2022-04-26,Dining,53.40,Dallas,65+,Debit
+2022-04-27,Travel,208.00,San Antonio,25-34,Cash
+2022-04-28,Healthcare,65.10,Houston,35-44,Mobile
+2022-04-29,Online Shopping,111.20,Austin,45-54,Debit
+2022-04-30,Entertainment,79.00,Dallas,18-24,Credit
+2022-05-01,Groceries,127.90,El Paso,55-64,Cash
+2022-05-02,Utilities,106.60,San Antonio,65+,Debit
+2022-05-03,Clothing,91.30,Houston,25-34,Credit
+2022-05-04,Dining,62.75,Austin,35-44,Mobile
+2022-05-05,Travel,219.00,Dallas,45-54,Debit
+2022-05-06,Healthcare,70.60,San Antonio,18-24,Cash
+2022-05-07,Online Shopping,126.40,Houston,55-64,Credit
+2022-05-08,Entertainment,74.00,Austin,65+,Debit
+2022-05-09,Groceries,139.10,Dallas,25-34,Credit
+2022-05-10,Utilities,117.50,El Paso,35-44,Mobile
+2022-05-11,Clothing,93.20,San Antonio,45-54,Debit
+2022-05-12,Dining,55.90,Houston,18-24,Cash
+2022-05-13,Travel,202.00,Austin,55-64,Mobile
+2022-05-14,Healthcare,76.70,Dallas,65+,Credit
+2022-05-15,Online Shopping,107.80,El Paso,25-34,Debit
+2022-05-16,Entertainment,82.00,San Antonio,35-44,Cash
+2022-05-17,Groceries,141.25,Houston,45-54,Credit
+2022-05-18,Utilities,121.30,Austin,18-24,Mobile
+2022-05-19,Clothing,86.50,Dallas,55-64,Debit
+2022-05-20,Dining,57.20,San Antonio,65+,Credit
+2022-05-21,Travel,217.00,Houston,25-34,Debit
+2022-05-22,Healthcare,63.40,Austin,35-44,Cash
+2022-05-23,Online Shopping,124.70,El Paso,45-54,Mobile
+2022-05-24,Entertainment,70.00,Dallas,18-24,Debit
+2022-05-25,Groceries,137.30,San Antonio,55-64,Credit
+2022-05-26,Utilities,108.90,Houston,65+,Cash
+2022-05-27,Clothing,100.00,Austin,25-34,Debit
+2022-05-28,Dining,66.45,El Paso,35-44,Credit
+2022-05-29,Travel,0.00,Dallas,45-54,Mobile
+2022-05-30,Healthcare,69.80,San Antonio,18-24,Debit
+2022-05-31,Online Shopping,115.30,Houston,55-64,Cash
+2022-06-01,Entertainment,77.00,Austin,65+,Debit
+2022-06-02,Groceries,128.80,Dallas,25-34,Credit
+2022-06-03,Utilities,103.50,El Paso,35-44,Mobile
+2022-06-04,Clothing,97.40,San Antonio,45-54,Debit
+2022-06-05,Dining,54.30,Houston,18-24,Cash
+2022-06-06,Travel,201.00,Austin,55-64,Mobile
+2022-06-07,Healthcare,66.20,Dallas,65+,Credit
+2022-06-08,Online Shopping,110.80,El Paso,25-34,Debit
+2022-06-09,Entertainment,76.00,San Antonio,35-44,Cash
+2022-06-10,Groceries,131.40,Houston,45-54,Debit
+2022-06-11,Utilities,114.70,Austin,18-24,Mobile
+2022-06-12,Clothing,85.00,Dallas,55-64,Credit
+2022-06-13,Dining,60.25,San Antonio,65+,Debit
+2022-06-14,Travel,213.00,Houston,25-34,Mobile
+2022-06-15,Healthcare,71.80,Austin,35-44,Credit
+2022-06-16,Online Shopping,127.90,Dallas,45-54,Debit
+2022-06-17,Entertainment,81.00,El Paso,18-24,Mobile
+2022-06-18,Groceries,142.20,San Antonio,55-64,Cash
+2022-06-19,Utilities,105.60,Houston,65+,Credit
+2022-06-20,Clothing,90.40,Austin,25-34,Debit
+2022-06-21,Dining,63.50,Dallas,35-44,Mobile
+2022-06-22,Travel,0.00,San Antonio,45-54,Cash
+2022-06-23,Healthcare,68.30,Houston,18-24,Debit
+2022-06-24,Online Shopping,113.10,Austin,55-64,Credit
+2022-06-25,Entertainment,85.00,Dallas,65+,Mobile
+2022-06-26,Groceries,138.10,El Paso,25-34,Cash
+2022-06-27,Utilities,119.40,San Antonio,35-44,Debit
+2022-06-28,Clothing,99.50,Houston,45-54,Mobile
+2022-06-29,Dining,58.20,Austin,18-24,Credit
+2022-06-30,Travel,222.00,Dallas,55-64,Debit
+2022-07-01,Healthcare,74.60,San Antonio,65+,Mobile
+2022-07-02,Online Shopping,108.20,Houston,25-34,Cash
+2022-07-03,Entertainment,79.00,Austin,35-44,Debit
+2022-07-04,Groceries,132.70,Dallas,45-54,Credit
+2022-07-05,Utilities,116.50,El Paso,18-24,Mobile
+2022-07-06,Clothing,94.60,San Antonio,55-64,Debit
+2022-07-07,Dining,62.40,Houston,65+,Credit
+2022-07-08,Travel,211.00,Austin,25-34,Mobile
+2022-07-09,Healthcare,69.30,Dallas,35-44,Debit
+2022-07-10,Online Shopping,129.70,El Paso,45-54,Credit
+2022-07-11,Entertainment,67.00,San Antonio,18-24,Mobile
+2022-07-12,Groceries,145.50,Houston,55-64,Cash
+2022-07-13,Utilities,109.30,Austin,65+,Debit
+2022-07-14,Clothing,88.20,Dallas,25-34,Mobile
+2022-07-15,Dining,59.70,San Antonio,35-44,Credit
+2022-07-16,Travel,206.00,Houston,45-54,Debit
+2022-07-17,Healthcare,77.80,Austin,18-24,Mobile
+2022-07-18,Online Shopping,121.40,Dallas,55-64,Debit
+2022-07-19,Entertainment,73.00,El Paso,65+,Credit
+2022-07-20,Groceries,139.60,San Antonio,25-34,Debit
+2022-07-21,Utilities,112.50,Houston,35-44,Cash
+2022-07-22,Clothing,82.40,Austin,45-54,Mobile
+2022-07-23,Dining,68.10,Dallas,18-24,Credit
+2022-07-24,Travel,0.00,El Paso,55-64,Debit
+2022-07-25,Healthcare,61.90,San Antonio,65+,Mobile
+2022-07-26,Online Shopping,110.70,Houston,25-34,Cash
+2022-07-27,Entertainment,78.00,Austin,35-44,Debit
+2022-07-28,Groceries,128.90,Dallas,45-54,Mobile
+2022-07-29,Utilities,107.40,San Antonio,18-24,Debit
+2022-07-30,Clothing,96.80,Houston,55-64,Credit
+2022-07-31,Dining,64.90,Austin,65+,Mobile
