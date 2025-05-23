@@ -1,0 +1,58 @@
+# 02_eda.ipynb
+
+import pandas as pd
+import matplotlib.pyplot as plt
+import plotly.express as px
+
+# Load cleaned data
+df = pd.read_csv('../data/processed/cleaned_spending.csv')
+
+# --- 1. Overview ---
+print("Data shape:", df.shape)
+print("Columns:", df.columns.tolist())
+display(df.head())
+
+# --- 2. Basic stats ---
+print("\nMissing values:\n", df.isna().sum())
+print("\nSummary statistics:\n", df['spend_amount'].describe())
+
+# --- 3. Value counts for key columns ---
+for col in ['category', 'location', 'age_group', 'payment_method']:
+    print(f"\nValue counts for {col}:")
+    print(df[col].value_counts())
+
+# --- 4. Groupby analysis ---
+# Average spend per category
+avg_per_category = df.groupby('category')['spend_amount'].mean().sort_values(ascending=False)
+print("\nAverage spend per category:\n", avg_per_category)
+
+# Total spend by city
+total_by_city = df.groupby('location')['spend_amount'].sum().sort_values(ascending=False)
+print("\nTotal spend by city:\n", total_by_city)
+
+# --- 5. Charts ---
+
+# Matplotlib bar chart: Average spend per category
+plt.figure(figsize=(8,5))
+avg_per_category.plot(kind='bar', color='teal')
+plt.title('Average Spend per Category')
+plt.ylabel('Average Spend ($)')
+plt.xlabel('Category')
+plt.tight_layout()
+plt.show()
+
+# Plotly pie chart: Spend by Payment Method
+fig = px.pie(df, names='payment_method', values='spend_amount', title='Spending by Payment Method')
+fig.show()
+
+# Plotly line chart: Total Spend Over Time
+df['date'] = pd.to_datetime(df['date'])
+spend_over_time = df.groupby('date')['spend_amount'].sum().reset_index()
+fig2 = px.line(spend_over_time, x='date', y='spend_amount', title='Total Spend Over Time')
+fig2.show()
+
+# --- 6. Insights ---
+print("\nKey Insights:")
+print("- Which category has the highest average spend?")
+print("- Which city spends the most?")
+print("- Trends by age group or payment method?")
