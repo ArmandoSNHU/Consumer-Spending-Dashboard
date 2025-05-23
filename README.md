@@ -40,7 +40,22 @@ This project analyzes realistic, large-scale consumer spending data (synthetic, 
    ```
 
 ## 📈 Sample Visualizations
-*Add dashboard screenshots here for maximum impact!*
+## 📸 Dashboard Screenshots
+
+Below are examples of the interactive dashboard and data visualizations built with Streamlit and Plotly.
+
+### Dashboard Overview
+
+![Dashboard Overview](screenshots/dashboard_overview.png)
+
+### Filter Categories
+
+![Filter Categories](screenshots/filter_categories.png)
+
+### Data Graphs Example
+
+![Dashboard Data Graphs](screenshots/dashboard_data_graphs.png)
+
 
 ## 📄 Reports
 - **insights_report.pdf:** Visual summary and business recommendations (coming soon)
