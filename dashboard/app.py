@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 
 # Load data
-df = pd.read_csv('../data/processed/cleaned_spending.csv')
+df = pd.read_csv('data/processed/cleaned_spending.csv')
 df['date'] = pd.to_datetime(df['date'])
 
 st.title("Consumer Spending Trends Dashboard")
